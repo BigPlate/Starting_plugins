@@ -1,0 +1,4 @@
+name: Let's_start_plugin
+version: '${version}'
+main: starting_plugin.java
+api-version: 1.18
